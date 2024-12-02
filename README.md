@@ -1,4 +1,4 @@
-# taion-note
+# nextjs-recharts-demo
 
 ```
 $ npx create-next-app@latest my-next-app
